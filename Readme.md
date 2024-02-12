@@ -42,7 +42,7 @@ FakeNFT - Приложение помогает пользователям пр�
 `TabBarController`, `NavigationController`, `NavigationBar`, `UICollectionView`, `UICollectionViewCell`, `UITableView`, `UITableViewCell`, `UserDefaults`, `JSON API`
 
 ### Инструменты
-`Xcode`, `Figma`, `Postman`, `Charles`, `Sourcetree`
+`Xcode`, `Figma`, `Postman`, `Charles`, `Sourcetree`, `GitHub Project`
  
 ### План по доработке
 - [ ] Подключить обновленное API
